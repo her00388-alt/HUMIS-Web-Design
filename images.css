@@ -1,0 +1,11 @@
+main {
+    .pull {
+        display: inline-block;
+
+
+        &.left {
+            float: left;
+            margin-right: 14px;
+        }
+    }
+}
